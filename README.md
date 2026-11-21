@@ -1,8 +1,8 @@
 <div align="center">
 
-# `> hello, world!` 👋
+<img src="face-terminal.svg" alt="Sastivelan N - terminal profile" width="100%" />
 
-### I'm Sastivelan N — Backend & Full-Stack Developer
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=B.Sc.+Computer+Science+Student;Python+%7C+Flask+%7C+React+%7C+SQL;Building+REST+APIs+and+full-stack+apps;Seeking+backend+%2F+full-stack+internships" alt="Typing intro" />
 
@@ -13,18 +13,7 @@
 
 ---
 
-## `whoami`
-
-```bash
-$ whoami
-Sastivelan N
-
-$ current_focus
-Backend development • REST APIs • Full-stack web apps
-
-$ ask_me_about
-Python, Flask, React, SQL, REST APIs, Git, Docker
-```
+## `about`
 
 - 🎓 B.Sc. Computer Science, Rathinam Global University College
 - 📍 Coimbatore, Tamil Nadu, India
